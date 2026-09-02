@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/Users/ialsalamah/Library/Application Support/Herd/bin/php84",
+            "args": [
+                "/Users/ialsalamah/Herd/whatsapp-bot/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
